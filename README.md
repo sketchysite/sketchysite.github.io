@@ -1,3 +1,1 @@
-# sketchysite.github.io
-
-This is some temp test data.... Nothing to see here. 
+flag{8626fe7dcd8d412a80d0b3f0e36afd4a}
